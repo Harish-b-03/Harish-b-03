@@ -21,13 +21,16 @@ const harish = {
   databases: [ "Firebase"],
   AspiringToBe: DevOps Engineer,
   
-  learning: [ Docker, Kubernetes, AWS, Java, ML],
-  plans: 
+  learning: [ Docker, Kubernetes, Cloud, Java, ML],
+  workingOn: { "Personal_Projects", "Softskills"},
+  
+  lookingFor: "Contributing_to_Open-Source", "Internships"
 }
 ```
 <br/>
+<br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em></p>
 
 
 
@@ -35,3 +38,6 @@ const harish = {
 [![Linkedin: Harish](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-b-42a7911b9/)](https://www.linkedin.com/in/harish-b-42a7911b9//)
 
 ---
+
+
+<sub>Note: This Readme template was derived from</sub> [<sub>Thariane's</sub>](https://github.com/Thaiane)
