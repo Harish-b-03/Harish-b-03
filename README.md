@@ -1,15 +1,37 @@
-### Hi there 👋
+<h2> Hi, I'm Harish!! <img src="./gifs-images/hat-down.gif" alt="hat-down" width="50"></h2>
+<p><em>Studying Computer Science <div>Debugging my Life</div>
+</em></p>
 
-**Harish-b-13/Harish-b-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👯 Just started my journey in Open-Source <img src="./gifs-images/duck-walk.gif" alt="Duck-walk" height="35px" width="35px">
+- 🧐 Yet to do my First-Contribution
+- 🌱 I’m currently learning:   Docker, Kubernetes and DevOps Practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br/>
 
+### A little more about me...  
+
+```javascript
+const harish = {
+  pronouns: "He" | "his",
+  country: India,
+  role: Student,
+  code: [ C++, Javascript, HTML, CSS, Go ],
+  tools: [ React, Node ],
+  databases: [ "Firebase"],
+  AspiringToBe: DevOps Engineer,
+  
+  learning: [ Docker, Kubernetes, AWS, Java, ML],
+  plans: 
+}
+```
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+
+#### Lets connect: 
+[![Linkedin: Harish](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harish-b-42a7911b9/)](https://www.linkedin.com/in/harish-b-42a7911b9//)
+
+---
