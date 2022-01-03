@@ -18,8 +18,7 @@ const harish = {
   role: Student,
   code: [ C++, Javascript, HTML, CSS, Go ],
   tools: [ React, Node ],
-  databases: [ "Firebase"],
-  AspiringToBe: DevOps Engineer,
+  databases: [ "Firebase", "MongoDB"],
   
   learning: [ Docker, Kubernetes, Cloud, Java, ML],
   workingOn: { "Personal_Projects", "Softskills"},
