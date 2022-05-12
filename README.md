@@ -4,8 +4,9 @@
 
 
 - 👯 Just started my journey in Open-Source <img src="./gifs-images/duck-walk.gif" alt="Duck-walk" height="35px" width="35px">
-- 🧐 Yet to do my First-Contribution
-- 🌱 I’m currently learning:   Docker, Kubernetes and DevOps Practices
+- 😇 Actively contributing to Async API in docs
+- ⏭️ Planning to contribute (in code) for Async API
+- 🌱 I’m currently learning:   ML, Cloud and DevOps Practices
 
 <br/>
 
@@ -16,12 +17,12 @@ const harish = {
   pronouns: "He" | "his",
   country: India,
   role: Student,
-  code: [ C++, Javascript, HTML, CSS, Go ],
-  tools: [ React, Node ],
+  code: [ C++, Javascript, HTML, CSS, Go, Java ],
+  tools: [ React, Node, Docker, Kubernetes ],
   databases: [ "Firebase", "MongoDB"],
   
-  learning: [ Docker, Kubernetes, Cloud, Java, ML],
-  workingOn: { "Personal_Projects", "Softskills"},
+  learning: [ Cloud, ML],
+  workingOn: { "Personal_Projects", "Softskills", "AsyncAPI docs"},
   
   lookingFor: "Contributing_to_Open-Source", "Internships"
 }
