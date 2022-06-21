@@ -4,8 +4,7 @@
 
 
 - 👯 Just started my journey in Open-Source <img src="./gifs-images/duck-walk.gif" alt="Duck-walk" height="35px" width="35px">
-- 😇 Actively contributing to Async API in docs
-- ⏭️ Planning to contribute (in code) for Async API
+- 😇 Actively contributing to [AsyncAPI Initiative](https://github.com/asyncapi)
 - 🌱 I’m currently learning:   ML, Cloud and DevOps Practices
 
 <br/>
@@ -22,7 +21,7 @@ const harish = {
   databases: [ "Firebase", "MongoDB"],
   
   learning: [ Cloud, ML],
-  workingOn: { "Personal_Projects", "Softskills", "AsyncAPI docs"},
+  workingOn: { "Personal_Projects", "Softskills", "Contributions to AsyncAPI Initiative", "AWS Certification"},
   
   lookingFor: "Contributing_to_Open-Source", "Internships"
 }
