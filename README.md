@@ -1,4 +1,5 @@
 <h2> Hi, I'm Harish!! <img src="./gifs-images/hat-down.gif" alt="hat-down" width="50"></h2>
+<p>Software Developer Intern @ CoffeeInc | CS Student </p>
 <p><em>Studying Computer Science <div>Debugging my Life</div>
 </em></p>
 
