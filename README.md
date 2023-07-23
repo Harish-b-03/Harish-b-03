@@ -1,47 +1,52 @@
-<img src="./images/github-header-image.png">
-
-<!--
-<p>Software Developer Intern @ CoffeeInc | CS Student </p>
-<p><em>Studying Computer Science <div>Debugging my Life</div>
-</em></p> -->
-<br/>
-<!-- Social links -->
-
-👯 Just started my journey in Open-Source <img src="./images/gifs-images/duck-walk.gif" alt="Duck-walk" height="35px" width="35px">
-
-😇 Actively contributing to Open source projects
+<div style="width:100%">
+<img src="./images/github-header-image.png" alt="banner_image" style="width:100%">
+</div>
 
 <br/>
 
-### About me...
+<div align="center" style="width:100%;">
+<div>
+    <a href="https://harish-balaji.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+    </a>
+    <a href="https://www.linkedin.com/in/harish-b-42a7911b9/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Website"/>
+    </a>
+    <a href="mailto:harishbalaji369@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"/>
+    </a>
+    <a href="https://medium.com/@harishbalaji369" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Website"/>
+    </a>
+</div>
+</div>
+
+<br/>
+
+### A little bit more about me...
 
 ```javascript
 const harish = {
   pronouns: "He" | "his",
-  country: India,
-  role: Student,
-  code: [ C++, Javascript, Typescript, HTML, CSS, Go, Java ],
-  tools: [ React, Next, Node, Docker, Kubernetes, TailwindCSS ],
-  databases: [ "Firebase", "MongoDB", "Postgres" ],
-
-  learning: [ AWS ],
-  workingOn: { "Personal_Projects", "Softskills", "Contributions", "AWS Certification"},
-
-  lookingFor: "Contributing_to_Open-Source", "Internships"
+  country: "India",
+  role: "Student" && "Intern",
+  code: ["Java", "Javascript", "HTML", "CSS", "Go", "C++", "Python"],
+  frameworks: [ "NextJS", "ReactJS", "Typescript", "NodeJS" ],
+  others: [ "PostgreSQL", "AWS", "MongoDB", "Firebase", "Docker", "Kubernetes", "TailwindCSS", "RestAPI", "Figma", "Git" ],
+  workingOn: [ "Personal_Projects", "Softskills", "Contributions" ],
+  lookingFor: [ "Contributing_to_Open-Source", "Internships" ]
 }
 ```
 
 <br/>
 
----
-
 <h3>Some Stats</h3>
 
-<div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-b-03&theme=github_dark"/>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-b-03&theme=github_dark&border_color=333"/>
     <br/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-b-03&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-b-03&layout=compact&theme=github_dark&border_color=333" alt=""/>
 </div>
 
 <p>
