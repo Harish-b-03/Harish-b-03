@@ -7,7 +7,7 @@
 <br/>
 <!-- Social links -->
 
--👯 Just started my journey in Open-Source <img src="./images/gifs-images/duck-walk.gif" alt="Duck-walk" height="35px" width="35px">
+👯 Just started my journey in Open-Source <img src="./images/gifs-images/duck-walk.gif" alt="Duck-walk" height="35px" width="35px">
 
 😇 Actively contributing to Open source projects
 
